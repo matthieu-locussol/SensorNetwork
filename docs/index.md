@@ -8,7 +8,7 @@ This software allows to display the values, types, names, location and ranges of
 
 It is also possible to keep a history of the sensors values as well as to display a graph representing the evolution of these values over the time in real-time.
 
-_Project carried out as part of my third year at [Paul Sabatier Universsity](http://www.univ-tlse3.fr/)._
+_Project carried out as part of my third year at [Paul Sabatier University](http://www.univ-tlse3.fr/)._
 
 ## Features
 
