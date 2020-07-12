@@ -6,4 +6,4 @@ url: https://matthieu-locussol.github.io/SensorNetwork
 repository: https://github.com/matthieu-locussol/SensorNetwork
 show_downloads: true
 github:
-  all_platforms: https://github.com/matthieu-locussol/SensorNetwork/releases/latest/download/SensorNetwork-v1.0.0.zip
+  all_platforms: https://github.com/matthieu-locussol/SensorNetwork/releases/download/v1.0.0/SensorNetwork-v1.0.0.zip
