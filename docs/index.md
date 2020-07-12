@@ -12,11 +12,11 @@ _Project carried out as part of my third year at [Paul Sabatier Universsity](htt
 
 ## Features
 
-###### Server
+#### Server
 
 - Running a SensorNetwork server
 
-###### Sensors
+#### Sensors
 
 - Adding an interior/exterior sensor to a server
 - Rename sensor
@@ -25,7 +25,7 @@ _Project carried out as part of my third year at [Paul Sabatier Universsity](htt
 - Setting sensor's value manually
 - Settings sensor's values range
 
-###### Visualization interfaces
+#### Visualization interfaces
 
 - Adding and connecting a visualization interface to a server
 - Rename visualization interface
