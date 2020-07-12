@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+version: 1.0.0
+name: SensorNetwork
+description: SensorNetwork is a network of sensors and visualization interfaces.
+url: https://matthieu-locussol.github.io/SensorNetwork
+repository: https://github.com/matthieu-locussol/SensorNetwork
+show_downloads: true
+github:
+  all_platforms: https://github.com/matthieu-locussol/SensorNetwork/releases/latest/download/SensorNetwork-v1.0.0.zip

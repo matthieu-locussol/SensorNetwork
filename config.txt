@@ -1,0 +1,55 @@
+# Fichier de configuration d'exemple pour les capteurs de simulation
+# Les seules lignes lues par le programme sont les lignes respectant ce format :
+# "b <nom_bâtiment>" (type: chaîne de caractères, conformément au sujet)
+# "e <numéro_étage>" (type: entier, conformèment au sujet)
+# "s <nom_salle>" (type: chaîne de caractères, conformément au sujet)
+# On se moque des autres lignes, que ce soit des sauts de lignes ou quoi que ce soit d'autre.
+# Ce message est "structuré" avec des '#' mais on aurait très bien pu les enlever, ils permettent simplement de ne pas se tromper en commençant une phrase par 'b', 'e' ou 's'.
+
+# Bâtiment 4A
+
+b 4A
+  e -1
+    s Parking
+  e 0
+    s K1
+    s K2
+    s K3
+    s K4
+  e 1
+    s Amphi MOLLIARD
+    s Amphi LECLERC
+    s K11
+    s K12
+  e 2
+    s Amphi MOLLIARD
+    s Amphi LECLERC
+
+# Bâtiment U1
+
+b U1
+  e 0
+    s Amphi MATHIS
+    s Amphi DENJOY
+    s 100
+    s 101
+    s 102
+    s 103
+    s 104
+    s 105
+    s 106
+    s 107
+    s 108
+    s 109
+    s 110
+  e 1
+    s 201
+    s 202
+    s 203
+    s 204
+    s 205
+    s 206
+    s 207
+    s 208
+    s 209
+    s 210
